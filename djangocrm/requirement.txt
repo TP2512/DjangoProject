@@ -3,3 +3,4 @@ mysql-connector
 mysql-connector-python
 martor
 gunicorn
+mysqlclient
